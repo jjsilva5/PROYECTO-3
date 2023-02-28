@@ -25,7 +25,19 @@ Mauricio taco
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
+Materiales:
 
+- 1 fotoresistencia
+
+- 1 potenciometro de 10kohm
+
+- 2 resistencias de 10kohms
+
+-Un circuito integrado UA741
+
+- TIP 120
+
+- Relay
 
 
 4.VIDEO
