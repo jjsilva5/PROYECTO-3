@@ -33,7 +33,7 @@ Materiales:
 
 - 2 resistencias de 10kohms
 
--Un circuito integrado UA741
+- Un circuito integrado UA741
 
 - TIP 120
 
