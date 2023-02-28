@@ -13,11 +13,14 @@ Mauricio taco
 
 1.1 Objetivo General:
 
-
+- Analizar el funcionamiento del alambrado publico, mediante la creacion de un circuito en protoboard.
 
 1.2 Objetivos especificos:
 
-
+- Analizar el funcionamiento de los componentes del circuito.
+- Asemejar la distincion de luz con la del alambrado publico.
+- Recrear un circuito capaz de detectar la variacion de luz en el entorno.
+- Determinar la polaridad de los diferentes elementos utilizados.
 
 2.MARCO TEÓRICO
 
