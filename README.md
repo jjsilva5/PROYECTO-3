@@ -71,6 +71,9 @@ Foco de 110V
 LDR (resistencia dependiente de la luz)
 Potenciómetro de 10k ohmios
 Cableado y protoboard
+
+![image](https://user-images.githubusercontent.com/117045943/222012108-05319884-09a1-4626-a503-5ffaf78de61c.png)
+
 Pasos:
 
 Conecta el TIP120 en la protoboard, asegurándote de que la base, el colector y el emisor estén separados. Conecta el diodo de protección en paralelo con la bobina del relé (los terminales del relé son los de bobina y los de contacto).
