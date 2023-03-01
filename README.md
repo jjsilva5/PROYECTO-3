@@ -72,7 +72,11 @@ LDR (resistencia dependiente de la luz)
 Potenciómetro de 10k ohmios
 Cableado y protoboard
 
-![image](https://user-images.githubusercontent.com/117045943/222012108-05319884-09a1-4626-a503-5ffaf78de61c.png)
+![image](https://user-images.githubusercontent.com/117045943/222012108-05319884-09a1-4626-a503-5ffaf78de61c.png)}
+
+![image](https://user-images.githubusercontent.com/117045943/222012350-966a01b4-62b2-4ff1-a797-7157a2bdb0e8.png)
+
+![image](https://user-images.githubusercontent.com/117045943/222012364-9f413880-973b-4975-961f-649e529b09d7.png)
 
 Pasos:
 
