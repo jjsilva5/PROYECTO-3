@@ -44,6 +44,8 @@ El TIP120 es un transistor bipolar de potencia NPN, capaz de manejar altas corri
 
 3.EXPLICACIÓN DEL PROCEDIMIENTO
 
+![image](https://user-images.githubusercontent.com/117045943/222468139-d2634299-3de9-4e0b-b0c1-216cc2d995d1.png)
+
 Materiales:
 
 - 1 fotoresistencia
